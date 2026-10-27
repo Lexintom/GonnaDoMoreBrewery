@@ -5,6 +5,7 @@ import com.lex.blocks.BeerBlock;
 import com.lex.items.AlcoholBottle;
 import com.lex.items.BeerItem;
 import com.lex.items.LiverCheckerItem;
+import com.lex.items.LiverMedicineItem;
 import dev.architectury.registry.registries.DeferredRegister;
 import dev.architectury.registry.registries.Registrar;
 import dev.architectury.registry.registries.RegistrySupplier;
@@ -25,13 +26,17 @@ public class ObjectsRegistry {
     public static final RegistrySupplier<Block> ALCOHOL_BLOCK = BLOCKS.register("alcohol_bottle", BeerBlock::new);
     public static final RegistrySupplier<Block> VODKA_BLOCK = BLOCKS.register("vodka", BeerBlock::new);
     public static final RegistrySupplier<Block> MEAD_BLOCK = BLOCKS.register("mead", BeerBlock::new);
+    public static final RegistrySupplier<Block> GOLDEN_ALE_BLOCK = BLOCKS.register("golden_ale", BeerBlock::new);
 
     public static final RegistrySupplier<Item> LIVER_CHECKER =
             ITEMS.register("liver_checker", () -> new LiverCheckerItem(new Item.Properties()));
+    public static final RegistrySupplier<Item> LIVER_MEDICINE =
+            ITEMS.register("liver_medicine", () -> new LiverMedicineItem(new Item.Properties()));
     public static final RegistrySupplier<Item> CACHACA = ITEMS.register("cachaca", () -> new BeerItem(EffectsRegistry.LIGHTHEAD.get(), CACHACA_BLOCO.get()));
     public static final RegistrySupplier<Item> ALCOHOL = ITEMS.register("alcohol_bottle", () -> new AlcoholBottle(MobEffects.POISON, 60, ALCOHOL_BLOCK.get(), new Item.Properties().stacksTo(64)));
     public static final RegistrySupplier<Item> VODKA = ITEMS.register("vodka", () -> new BeerItem(EffectsRegistry.TOUCH_CONFUSION.get(),VODKA_BLOCK.get()));
     public static final RegistrySupplier<Item> MEAD = ITEMS.register("mead", () -> new BeerItem(EffectsRegistry.SATURATED.get(),MEAD_BLOCK.get()));
+    public static final RegistrySupplier<Item> GOLDEN_ALE = ITEMS.register("golden_ale", () -> new BeerItem(EffectsRegistry.HEALING_STREAK.get(),GOLDEN_ALE_BLOCK.get()));
 
     public static void init() {
         BLOCKS.register();

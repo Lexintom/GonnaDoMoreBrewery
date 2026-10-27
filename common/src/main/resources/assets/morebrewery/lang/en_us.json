@@ -17,6 +17,13 @@
   "item.morebrewery.liver_checker.integrity": "Integridade do fígado: %s%%",
   "item.morebrewery.liver_checker.none": "Nenhuma checagem feita",
   "item.morebrewery.liver_checker.hint": "Segure o botão direito por 3s para checar",
+
+  "item.morebrewery.liver_medicine": "Liver Medicine",
+  "item.morebrewery.liver_medicine.tooltip": "Restores liver integrity when consumed",
+  "item.morebrewery.liver_medicine.heal_amount": "Heals %s integrity",
+  "item.morebrewery.liver_medicine.healed": "Liver healed! Current integrity: %s%%",
+  "item.morebrewery.liver_medicine.full": "Your liver is already healthy!",
+
   "itemGroup.morebrewery.creative_tab": "[Gonna Do More] Brewery",
   "item.morebrewery.hint.alcohol": "Alcohol Concentration: %s"
  }

@@ -27,6 +27,7 @@ public final class MoreConfig {
     public static final IntOption FLAT_LOSS_PER_ALCOHOLIC_ITEM = new IntOption("liver", "flatLossPerAlcoholicItem", 0, 0, 100);
     public static final IntOption WATER_RESTORE = new IntOption("liver", "waterRestore", 5, 0, 100);
     public static final IntOption TAG_RESTORE = new IntOption("liver", "teaRestore", 3, 0, 100);
+    public static final IntOption NATURAL_REGEN_PER_MINUTE = new IntOption("liver", "naturalRegenPerMinute", 1, 0, 100);
 
     public static final DoubleOption MAX_DAMAGE_PENALTY = new DoubleOption("penalties", "maxDamagePenalty", 0.50, 0.0, 1.0);
     public static final DoubleOption MAX_SPEED_PENALTY = new DoubleOption("penalties", "maxSpeedPenalty", 0.30, 0.0, 1.0);
