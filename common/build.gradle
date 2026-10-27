@@ -1,0 +1,19 @@
+architectury {
+    common rootProject.enabled_platforms.split(',')
+}
+
+dependencies {
+    modImplementation "net.fabricmc:fabric-loader:$rootProject.fabric_loader_version"
+      modImplementation "dev.architectury:architectury:$rootProject.architectury_api_version"
+
+    modCompileOnly "curse.maven:lets-do-brewery-farm-charm-compat-1038106:6847828"
+
+    modCompileOnly "curse.maven:lets-do-farm-charm-1038103:7088023"
+}
+
+repositories {
+    maven {
+        url "https://cursemaven.com"
+    }
+
+}

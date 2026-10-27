@@ -1,0 +1,18 @@
+{
+  "type": "brewery:brewing",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar_cane"
+    },
+    {
+      "item": "farm_and_charm:yeast"
+    },
+    {
+      "item": "farm_and_charm:yeast"
+    }
+  ],
+  "material": "WOOD",
+  "result": {
+    "item": "morebrewery:cachaca"
+  }
+}

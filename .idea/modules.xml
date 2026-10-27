@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/morebrewery.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/morebrewery.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/morebrewery.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/morebrewery.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/morebrewery.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/morebrewery.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/morebrewery.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/morebrewery.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/morebrewery.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/morebrewery.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/morebrewery.forge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/morebrewery.forge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/morebrewery.forge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/morebrewery.forge.test.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "package": "com.lex.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "BeverageBlockMixin",
+    "AlcoholManagerMixin",
+    "PlayerMixin",
+    "InputMixin",
+    "PlayerAlcoholMixin",
+    "MouseHandlerMixin",
+    "LivingEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

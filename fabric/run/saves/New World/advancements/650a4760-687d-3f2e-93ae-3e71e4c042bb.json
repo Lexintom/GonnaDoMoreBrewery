@@ -1,0 +1,79 @@
+{
+  "brewery:main/brewing_pioneer": {
+    "criteria": {
+      "brewing_station": "2026-10-27 12:01:02 -0300"
+    },
+    "done": true
+  },
+  "brewery:main/get_whiskey_teras_malt": {
+    "criteria": {
+      "whiskey_jamesons_malt": "2026-10-27 12:00:48 -0300"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/cook_everything": {
+    "criteria": {
+      "farm_and_charm:yeast": "2026-10-27 12:01:01 -0300"
+    },
+    "done": false
+  },
+  "brewery:main/root": {
+    "criteria": {
+      "seeds": "2026-10-27 12:00:25 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-10-27 12:00:25 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2026-10-27 12:00:26 -0300",
+      "minecraft:forest": "2026-10-27 12:00:38 -0300"
+    },
+    "done": false
+  },
+  "farm_and_charm:main/root": {
+    "criteria": {
+      "example_criterion": "2026-10-27 12:00:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-10-27 12:00:39 -0300"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/find_wild_crops": {
+    "criteria": {
+      "oat": "2026-10-27 12:00:25 -0300",
+      "wild_strawberry": "2026-10-27 12:00:25 -0300",
+      "corn": "2026-10-27 12:00:25 -0300",
+      "onion": "2026-10-27 12:00:25 -0300",
+      "wild_corn": "2026-10-27 12:00:25 -0300",
+      "wild_ribwort": "2026-10-27 12:00:25 -0300",
+      "strawberry": "2026-10-27 12:00:25 -0300",
+      "wild_nettle": "2026-10-27 12:00:25 -0300",
+      "barley": "2026-10-27 12:00:25 -0300",
+      "tomato": "2026-10-27 12:00:25 -0300",
+      "lettuce": "2026-10-27 12:00:25 -0300",
+      "wild_lettuce": "2026-10-27 12:00:25 -0300",
+      "wild_tomatoes": "2026-10-27 12:00:25 -0300",
+      "oat_seeds": "2026-10-27 12:00:25 -0300",
+      "tomato_seeds": "2026-10-27 12:00:25 -0300",
+      "barley_seeds": "2026-10-27 12:00:25 -0300",
+      "strawberry_seeds": "2026-10-27 12:00:25 -0300",
+      "lettuce_seeds": "2026-10-27 12:00:25 -0300",
+      "kernels": "2026-10-27 12:00:25 -0300",
+      "wild_barley": "2026-10-27 12:00:25 -0300",
+      "wild_onion": "2026-10-27 12:00:25 -0300",
+      "wild_oat": "2026-10-27 12:00:25 -0300"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
