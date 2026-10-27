@@ -9,7 +9,8 @@
     "InputMixin",
     "PlayerAlcoholMixin",
     "MouseHandlerMixin",
-    "LivingEntityMixin"
+    "LivingEntityMixin",
+    "MobAccessor"
   ],
   "injectors": {
     "defaultRequire": 1

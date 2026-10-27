@@ -1,6 +1,7 @@
 package com.lex.registries;
 
 import com.lex.MoreBrewery;
+import com.lex.effects.beer.HealingStreak;
 import com.lex.effects.beer.LightHeadEffect;
 import com.lex.effects.beer.Saturated;
 import com.lex.effects.beer.TouchOfDrunkness;
@@ -19,6 +20,7 @@ public class EffectsRegistry {
     public static final RegistrySupplier<MobEffect> LIGHTHEAD = MOB_EFFECTS.register("lighthead", LightHeadEffect::new);
     public static final RegistrySupplier<MobEffect> TOUCH_CONFUSION = MOB_EFFECTS.register("drunk_touch", TouchOfDrunkness::new);
     public static final RegistrySupplier<MobEffect> CONFUSION = MOB_EFFECTS.register("confusion", ConfusionEffect::new);
+    public static final RegistrySupplier<MobEffect> HEALING_STREAK = MOB_EFFECTS.register("healing_streak", HealingStreak::new);
     public static final RegistrySupplier<MobEffect> SATURATED = MOB_EFFECTS.register("saturated", Saturated::new);
 
 

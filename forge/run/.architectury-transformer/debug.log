@@ -109,20 +109,20 @@
 [Architectury Transformer DEBUG]  - C:\Users\Usuario\Desktop\PROJETOS\Mods\GonnaDoMore_Brewery\.gradle\loom-cache\remapped_mods\remapped\curse\maven\lets-do-brewery-farm-charm-compat-1038106-4d589971\6847826\lets-do-brewery-farm-charm-compat-1038106-4d589971-6847826.jar
 [Architectury Transformer DEBUG]  - C:\Users\Usuario\Desktop\PROJETOS\Mods\GonnaDoMore_Brewery\.gradle\loom-cache\remapped_mods\remapped\curse\maven\mezzconfig-1689768-4d589971\9318716\mezzconfig-1689768-4d589971-9318716.jar
 [Architectury Transformer DEBUG]  - C:\Users\Usuario\Desktop\PROJETOS\Mods\GonnaDoMore_Brewery\.gradle\loom-cache\remapped_mods\remapped\curse\maven\jei-238222-4d589971\9298209\jei-238222-4d589971-9298209.jar
-[Architectury Transformer] Read classpath in 1.356 s
+[Architectury Transformer] Read classpath in 1.273 s
 [Architectury Transformer DEBUG] Closed File Systems for C:\Users\Usuario\Desktop\PROJETOS\Mods\GonnaDoMore_Brewery\common\build\devlibs\morebrewery-common-1.0.0-dev.jar
-[Architectury Transformer DEBUG] Transforming 8 transformer(s) from C:\Users\Usuario\Desktop\PROJETOS\Mods\GonnaDoMore_Brewery\common\build\devlibs\morebrewery-common-1.0.0-dev.jar to C:\Users\Usuario\AppData\Local\Temp\15958146915484753873.jar: 
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@5af97850
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@5ef60048
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@1d548a08
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@16aa0a0a
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeAnnotations@780cb77
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment@691a7f8f
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeForgeMod@50a7bc6e
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.FixForgeMixin@161b062a
-[Architectury Transformer DEBUG] Transforming from C:\Users\Usuario\Desktop\PROJETOS\Mods\GonnaDoMore_Brewery\common\build\devlibs\morebrewery-common-1.0.0-dev.jar to C:\Users\Usuario\AppData\Local\Temp\15958146915484753873.jar with 8 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer DEBUG] Transforming 8 transformer(s) from C:\Users\Usuario\Desktop\PROJETOS\Mods\GonnaDoMore_Brewery\common\build\devlibs\morebrewery-common-1.0.0-dev.jar to C:\Users\Usuario\AppData\Local\Temp\9662885862584994458.jar: 
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@780cb77
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@691a7f8f
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@50a7bc6e
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@161b062a
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeAnnotations@17c1bced
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment@2d9d4f9d
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeForgeMod@4034c28c
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.FixForgeMixin@e50a6f6
+[Architectury Transformer DEBUG] Transforming from C:\Users\Usuario\Desktop\PROJETOS\Mods\GonnaDoMore_Brewery\common\build\devlibs\morebrewery-common-1.0.0-dev.jar to C:\Users\Usuario\AppData\Local\Temp\9662885862584994458.jar with 8 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001cd8a08faa8@1ffe63b9
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001e8c508faa8@7ee955a8
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/minecraftforge/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/minecraftforge/api/distmarker/OnlyIn
@@ -130,41 +130,42 @@
 [Architectury Transformer DEBUG] Writing com/lex/MoreBrewery with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing com/lex/blocks/BeerBlock with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing com/lex/config/MoreConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing com/lex/config/MoreConfig$IntOption with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing com/lex/config/MoreConfig$DoubleOption with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing com/lex/config/MoreConfig$Option with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing com/lex/config/MoreConfig$IntOption with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing com/lex/effects/beer/LightHeadEffect with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing com/lex/effects/beer/TouchOfDrunkness with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing com/lex/effects/beer/Immovable with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing com/lex/effects/beer/Saturated with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing com/lex/effects/beer/Immovable with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing com/lex/effects/beer/FallRescue with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing com/lex/effects/beer/PirateFeast with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing com/lex/effects/beer/TouchOfDrunkness with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing com/lex/effects/beer/BloodLeeting with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing com/lex/effects/beer/Execution with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing com/lex/effects/beer/SneakyHand with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing com/lex/effects/beer/BloodLeeting with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing com/lex/effects/beer/LuckyPick with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing com/lex/effects/beer/HealingStreak with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing com/lex/effects/beer/BerserkerGlory with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing com/lex/effects/beer/ChainReaction with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing com/lex/effects/hurt/ConfusionEffect$State with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing com/lex/effects/beer/BerserkerGlory with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing com/lex/effects/hurt/ConfusionEffect with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing com/lex/effects/hurt/Bleeding with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing com/lex/handlers/ConfusionTargetGoal with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing com/lex/items/LiverCheckerItem with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing com/lex/items/AlcoholBottle with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing com/lex/items/BeerItem with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing com/lex/mixin/PlayerMixin with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing com/lex/mixin/InputMixin with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing com/lex/mixin/PlayerAlcoholMixin with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing com/lex/mixin/PlayerMixin with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing com/lex/mixin/BeverageBlockMixin with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing com/lex/mixin/InputMixin with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing com/lex/mixin/MobAccessor with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing com/lex/mixin/AlcoholManagerMixin with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing com/lex/mixin/LivingEntityMixin with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing com/lex/mixin/MouseHandlerMixin with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing com/lex/mixin/AlcoholManagerMixin with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing com/lex/registries/TabsRegistry with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing com/lex/registries/EffectsRegistry with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing com/lex/registries/ObjectsRegistry with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing com/lex/utils/MoreDrunk with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing com/lex/utils/LiverHandler with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing com/lex/utils/LiverHelper with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing com/lex/utils/LiverHandler with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing com/lex/utils/MaxDrunk with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing com/lex/utils/data/MorePlayerData with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing com/lex/utils/data/MoreData with maxs=true frames=true
@@ -172,172 +173,190 @@
 [Architectury Transformer DEBUG] Checking whether /morebrewery.mixins.json is a mixin config.
 [Architectury Transformer DEBUG] Found mixin config(s): morebrewery.mixins.json
 [Architectury Transformer DEBUG] Appended Launch Argument: [--mixin.config, morebrewery.mixins.json]
-[Architectury Transformer DEBUG] Closed File Systems for C:\Users\Usuario\AppData\Local\Temp\15958146915484753873.jar
+[Architectury Transformer DEBUG] Closed File Systems for C:\Users\Usuario\AppData\Local\Temp\9662885862584994458.jar
 [Architectury Transformer] Listening at C:\Users\Usuario\Desktop\PROJETOS\Mods\GonnaDoMore_Brewery\common\build\devlibs\morebrewery-common-1.0.0-dev.jar
-[Architectury Transformer DEBUG] Temporary jar [C:\Users\Usuario\AppData\Local\Temp\15958146915484753873.jar] contains packages: com.lex.effects.beer, com.lex.mixin, com.lex.items, com.lex.config, com.lex.blocks, com.lex, com.lex.registries, com.lex.effects.hurt, com.lex.utils.data, com.lex.utils
+[Architectury Transformer DEBUG] Temporary jar [C:\Users\Usuario\AppData\Local\Temp\9662885862584994458.jar] contains packages: com.lex.effects.beer, com.lex.mixin, com.lex.items, com.lex.config, com.lex.blocks, com.lex, com.lex.registries, com.lex.effects.hurt, com.lex.utils.data, com.lex.utils, com.lex.handlers
 [Architectury Transformer DEBUG] Closed File Systems for C:\Users\Usuario\Desktop\PROJETOS\Mods\GonnaDoMore_Brewery\common\build\devlibs\morebrewery-common-1.0.0-dev.jar
 [Architectury Transformer DEBUG] Classpath entry [C:\Users\Usuario\Desktop\PROJETOS\Mods\GonnaDoMore_Brewery\forge\build\classes\java\main] contains packages: com.lex.forge
 [Architectury Transformer DEBUG] Classpath entry [C:\Users\Usuario\Desktop\PROJETOS\Mods\GonnaDoMore_Brewery\forge\build\resources\main] contains packages: 
 [Architectury Transformer DEBUG] Transforming from com/lex/utils/data/MorePlayerData.class to com/lex/utils/data/MorePlayerData.class with 8 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001cd8a08faa8@1ffe63b9
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001e8c508faa8@7ee955a8
 [Architectury Transformer DEBUG] Remapping with Dirty Mappings...
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/minecraftforge/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/minecraftforge/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing com/lex/utils/data/MorePlayerData with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed com/lex/utils/data/MorePlayerData in 46.50 ms
+[Architectury Transformer DEBUG] Transformed com/lex/utils/data/MorePlayerData in 76.14 ms
+[Architectury Transformer DEBUG] Transforming from com/lex/mixin/MobAccessor.class to com/lex/mixin/MobAccessor.class with 8 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001e8c508faa8@7ee955a8
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/minecraftforge/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/minecraftforge/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing com/lex/mixin/MobAccessor with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed com/lex/mixin/MobAccessor in 24.58 ms
 [Architectury Transformer DEBUG] Transforming from com/lex/MoreBrewery.class to com/lex/MoreBrewery.class with 8 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001cd8a08faa8@1ffe63b9
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001e8c508faa8@7ee955a8
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/minecraftforge/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/minecraftforge/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing com/lex/MoreBrewery with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed com/lex/MoreBrewery in 23.28 ms
+[Architectury Transformer DEBUG] Transformed com/lex/MoreBrewery in 98.86 ms
 [Architectury Transformer DEBUG] Transforming from com/lex/registries/EffectsRegistry.class to com/lex/registries/EffectsRegistry.class with 8 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001cd8a08faa8@1ffe63b9
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001e8c508faa8@7ee955a8
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/minecraftforge/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/minecraftforge/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing com/lex/registries/EffectsRegistry with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed com/lex/registries/EffectsRegistry in 20.02 ms
+[Architectury Transformer DEBUG] Transformed com/lex/registries/EffectsRegistry in 51.76 ms
 [Architectury Transformer DEBUG] Transforming from com/lex/effects/beer/LightHeadEffect.class to com/lex/effects/beer/LightHeadEffect.class with 8 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001cd8a08faa8@1ffe63b9
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001e8c508faa8@7ee955a8
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/minecraftforge/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/minecraftforge/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing com/lex/effects/beer/LightHeadEffect with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed com/lex/effects/beer/LightHeadEffect in 16.73 ms
+[Architectury Transformer DEBUG] Transformed com/lex/effects/beer/LightHeadEffect in 39.31 ms
 [Architectury Transformer DEBUG] Transforming from com/lex/effects/beer/TouchOfDrunkness.class to com/lex/effects/beer/TouchOfDrunkness.class with 8 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001cd8a08faa8@1ffe63b9
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001e8c508faa8@7ee955a8
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/minecraftforge/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/minecraftforge/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing com/lex/effects/beer/TouchOfDrunkness with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed com/lex/effects/beer/TouchOfDrunkness in 12.87 ms
+[Architectury Transformer DEBUG] Transformed com/lex/effects/beer/TouchOfDrunkness in 21.96 ms
 [Architectury Transformer DEBUG] Transforming from com/lex/effects/hurt/ConfusionEffect.class to com/lex/effects/hurt/ConfusionEffect.class with 8 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001cd8a08faa8@1ffe63b9
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001e8c508faa8@7ee955a8
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/minecraftforge/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/minecraftforge/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing com/lex/effects/hurt/ConfusionEffect with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed com/lex/effects/hurt/ConfusionEffect in 7.755 ms
+[Architectury Transformer DEBUG] Transformed com/lex/effects/hurt/ConfusionEffect in 35.76 ms
+[Architectury Transformer DEBUG] Transforming from com/lex/handlers/ConfusionTargetGoal.class to com/lex/handlers/ConfusionTargetGoal.class with 8 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001e8c508faa8@7ee955a8
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/minecraftforge/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/minecraftforge/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing com/lex/handlers/ConfusionTargetGoal with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed com/lex/handlers/ConfusionTargetGoal in 25.81 ms
 [Architectury Transformer DEBUG] Transforming from com/lex/effects/beer/Saturated.class to com/lex/effects/beer/Saturated.class with 8 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001cd8a08faa8@1ffe63b9
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001e8c508faa8@7ee955a8
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/minecraftforge/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/minecraftforge/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing com/lex/effects/beer/Saturated with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed com/lex/effects/beer/Saturated in 7.598 ms
+[Architectury Transformer DEBUG] Transformed com/lex/effects/beer/Saturated in 24.85 ms
 [Architectury Transformer DEBUG] Transforming from com/lex/registries/ObjectsRegistry.class to com/lex/registries/ObjectsRegistry.class with 8 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001cd8a08faa8@1ffe63b9
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001e8c508faa8@7ee955a8
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/minecraftforge/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/minecraftforge/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing com/lex/registries/ObjectsRegistry with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed com/lex/registries/ObjectsRegistry in 8.615 ms
-[Architectury Transformer DEBUG] Transforming from com/lex/items/BeerItem.class to com/lex/items/BeerItem.class with 8 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001cd8a08faa8@1ffe63b9
-[Architectury Transformer DEBUG] Remapping Classes:
-[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/minecraftforge/api/distmarker/Dist
-[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/minecraftforge/api/distmarker/OnlyIn
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing com/lex/items/BeerItem with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed com/lex/items/BeerItem in 6.280 ms
+[Architectury Transformer DEBUG] Transformed com/lex/registries/ObjectsRegistry in 32.78 ms
 [Architectury Transformer DEBUG] Transforming from com/lex/items/LiverCheckerItem.class to com/lex/items/LiverCheckerItem.class with 8 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001cd8a08faa8@1ffe63b9
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001e8c508faa8@7ee955a8
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/minecraftforge/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/minecraftforge/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing com/lex/items/LiverCheckerItem with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed com/lex/items/LiverCheckerItem in 6.576 ms
+[Architectury Transformer DEBUG] Transformed com/lex/items/LiverCheckerItem in 27.00 ms
+[Architectury Transformer DEBUG] Transforming from com/lex/items/BeerItem.class to com/lex/items/BeerItem.class with 8 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001e8c508faa8@7ee955a8
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/minecraftforge/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/minecraftforge/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing com/lex/items/BeerItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed com/lex/items/BeerItem in 20.49 ms
 [Architectury Transformer DEBUG] Transforming from com/lex/items/AlcoholBottle.class to com/lex/items/AlcoholBottle.class with 8 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001cd8a08faa8@1ffe63b9
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001e8c508faa8@7ee955a8
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/minecraftforge/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/minecraftforge/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing com/lex/items/AlcoholBottle with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed com/lex/items/AlcoholBottle in 7.220 ms
+[Architectury Transformer DEBUG] Transformed com/lex/items/AlcoholBottle in 21.04 ms
 [Architectury Transformer DEBUG] Transforming from com/lex/utils/MaxDrunk.class to com/lex/utils/MaxDrunk.class with 8 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001cd8a08faa8@1ffe63b9
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001e8c508faa8@7ee955a8
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/minecraftforge/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/minecraftforge/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing com/lex/utils/MaxDrunk with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed com/lex/utils/MaxDrunk in 6.157 ms
+[Architectury Transformer DEBUG] Transformed com/lex/utils/MaxDrunk in 34.25 ms
 [Architectury Transformer DEBUG] Transforming from com/lex/blocks/BeerBlock.class to com/lex/blocks/BeerBlock.class with 8 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001cd8a08faa8@1ffe63b9
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001e8c508faa8@7ee955a8
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/minecraftforge/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/minecraftforge/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing com/lex/blocks/BeerBlock with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed com/lex/blocks/BeerBlock in 6.922 ms
+[Architectury Transformer DEBUG] Transformed com/lex/blocks/BeerBlock in 35.38 ms
 [Architectury Transformer DEBUG] Transforming from com/lex/registries/TabsRegistry.class to com/lex/registries/TabsRegistry.class with 8 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001cd8a08faa8@1ffe63b9
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001e8c508faa8@7ee955a8
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/minecraftforge/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/minecraftforge/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing com/lex/registries/TabsRegistry with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed com/lex/registries/TabsRegistry in 5.926 ms
+[Architectury Transformer DEBUG] Transformed com/lex/registries/TabsRegistry in 14.89 ms
 [Architectury Transformer DEBUG] Transforming from com/lex/utils/LiverHandler.class to com/lex/utils/LiverHandler.class with 8 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001cd8a08faa8@1ffe63b9
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001e8c508faa8@7ee955a8
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/minecraftforge/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/minecraftforge/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing com/lex/utils/LiverHandler with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed com/lex/utils/LiverHandler in 6.661 ms
+[Architectury Transformer DEBUG] Transformed com/lex/utils/LiverHandler in 28.28 ms
 [Architectury Transformer DEBUG] Transforming from com/lex/utils/LiverHelper.class to com/lex/utils/LiverHelper.class with 8 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001cd8a08faa8@1ffe63b9
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001e8c508faa8@7ee955a8
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/minecraftforge/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/minecraftforge/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing com/lex/utils/LiverHelper with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed com/lex/utils/LiverHelper in 44.36 ms
+[Architectury Transformer DEBUG] Transformed com/lex/utils/LiverHelper in 45.97 ms
 [Architectury Transformer DEBUG] Transforming from com/lex/utils/data/MoreData.class to com/lex/utils/data/MoreData.class with 8 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001cd8a08faa8@1ffe63b9
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001e8c508faa8@7ee955a8
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/minecraftforge/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/minecraftforge/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing com/lex/utils/data/MoreData with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed com/lex/utils/data/MoreData in 32.77 ms
-[Architectury Transformer DEBUG] Transforming from com/lex/effects/hurt/ConfusionEffect$State.class to com/lex/effects/hurt/ConfusionEffect$State.class with 8 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Transformed com/lex/utils/data/MoreData in 16.43 ms
+[Architectury Transformer DEBUG] Transforming from com/lex/utils/MoreDrunk.class to com/lex/utils/MoreDrunk.class with 8 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001cd8a08faa8@1ffe63b9
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001e8c508faa8@7ee955a8
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/minecraftforge/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/minecraftforge/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing com/lex/effects/hurt/ConfusionEffect$State with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed com/lex/effects/hurt/ConfusionEffect$State in 6.622 ms
+[Architectury Transformer DEBUG] Writing com/lex/utils/MoreDrunk with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed com/lex/utils/MoreDrunk in 7.175 ms
