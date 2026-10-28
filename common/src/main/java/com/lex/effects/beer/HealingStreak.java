@@ -22,7 +22,7 @@ public class HealingStreak extends MobEffect {
         if (entity.isDeadOrDying()) return;
 
         // 2 * (1 + amplifier) corações = 4 * (1 + amplifier) pontos de vida
-        float healAmount = 4.0f * (1 + amplifier);
+        int healAmount = 2 * (1 + amplifier);
         entity.heal(healAmount);
     }
 }

@@ -3,10 +3,14 @@
   "block.morebrewery.alcohol_bottle": "Alcohol Bottle",
   "block.morebrewery.vodka": "Vodka",
   "block.morebrewery.mead": "Mead",
+  "block.morebrewery.golden_ale": "Golden Ale",
+
   "effect.morebrewery.lighthead": "Light-Headed",
   "effect.morebrewery.drunk_touch": "Drunk Touch",
   "effect.morebrewery.confusion": "Confusion",
   "effect.morebrewery.saturated": "Saturated",
+  "effect.morebrewery.healing_streak": "Healing Streak",
+
   "item.morebrewery.hint.max_alcohol": "WARNING: 100% ALCOHOL",
 
   "item.morebrewery.liver_checker": "Liver Checker",
@@ -17,6 +21,13 @@
   "item.morebrewery.liver_checker.integrity": "Integridade do fígado: %s%%",
   "item.morebrewery.liver_checker.none": "Nenhuma checagem feita",
   "item.morebrewery.liver_checker.hint": "Segure o botão direito por 3s para checar",
+
+  "item.morebrewery.liver_medicine": "Liver Medicine",
+  "item.morebrewery.liver_medicine.tooltip": "Restores liver integrity when consumed",
+  "item.morebrewery.liver_medicine.heal_amount": "Heals %s integrity",
+  "item.morebrewery.liver_medicine.healed": "Liver healed! Current integrity: %s%%",
+  "item.morebrewery.liver_medicine.full": "Your liver is already healthy!",
+
   "itemGroup.morebrewery.creative_tab": "[Gonna Do More] Brewery",
   "item.morebrewery.hint.alcohol": "Alcohol Concentration: %s"
  }

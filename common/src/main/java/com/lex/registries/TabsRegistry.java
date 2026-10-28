@@ -18,7 +18,10 @@ public class TabsRegistry {
                 output.accept(ObjectsRegistry.CACHACA.get());
                 output.accept(ObjectsRegistry.ALCOHOL.get());
                 output.accept(ObjectsRegistry.VODKA.get());
+                output.accept(ObjectsRegistry.MEAD.get());
+                output.accept(ObjectsRegistry.GOLDEN_ALE.get());
                 output.accept(ObjectsRegistry.LIVER_CHECKER.get());
+                output.accept(ObjectsRegistry.LIVER_MEDICINE.get());
             }))
             .build());
 
